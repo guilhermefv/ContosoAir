@@ -1,4 +1,4 @@
-
+[![Build Status](https://gufranca.visualstudio.com/contoso-air/_apis/build/status/guilhermefv.ContosoAir?branchName=master)](https://gufranca.visualstudio.com/contoso-air/_build/latest?definitionId=5&branchName=master)
 
 
 # Microsoft.Github CI Demo
